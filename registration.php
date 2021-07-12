@@ -1,6 +1,4 @@
-<?php
-include('creatingdb.php')
-?>
+
 <!DOCTYPE html>
 <html>
 <head>
